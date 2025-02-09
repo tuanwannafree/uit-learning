@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Learning\\uit\\OOP\\ly thuyet\\Chuong 4 - Overload toan tu va ham\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F81E3607-C81F-4324-8277-2FFD8225D352}|Chuong 4 - Overload toan tu va ham.vcxproj|C:\\Learning\\uit\\OOP\\ly thuyet\\Chuong 4 - Overload toan tu va ham\\Chuong 4 - Overload toan tu va ham.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F81E3607-C81F-4324-8277-2FFD8225D352}|Chuong 4 - Overload toan tu va ham.vcxproj|solutionrelative:Chuong 4 - Overload toan tu va ham.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81E3607-C81F-4324-8277-2FFD8225D352}|Chuong 4 - Overload toan tu va ham.vcxproj|C:\\Learning\\uit\\OOP\\ly thuyet\\Chuong 4 - Overload toan tu va ham\\Fraction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F81E3607-C81F-4324-8277-2FFD8225D352}|Chuong 4 - Overload toan tu va ham.vcxproj|solutionrelative:Fraction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fraction.h",
+              "DocumentMoniker": "C:\\Learning\\uit\\OOP\\ly thuyet\\Chuong 4 - Overload toan tu va ham\\Fraction.h",
+              "RelativeDocumentMoniker": "Fraction.h",
+              "ToolTip": "C:\\Learning\\uit\\OOP\\ly thuyet\\Chuong 4 - Overload toan tu va ham\\Fraction.h",
+              "RelativeToolTip": "Fraction.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-09T19:57:11.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chuong 4 - Overload toan tu va ham.cpp",
+              "DocumentMoniker": "C:\\Learning\\uit\\OOP\\ly thuyet\\Chuong 4 - Overload toan tu va ham\\Chuong 4 - Overload toan tu va ham.cpp",
+              "RelativeDocumentMoniker": "Chuong 4 - Overload toan tu va ham.cpp",
+              "ToolTip": "C:\\Learning\\uit\\OOP\\ly thuyet\\Chuong 4 - Overload toan tu va ham\\Chuong 4 - Overload toan tu va ham.cpp",
+              "RelativeToolTip": "Chuong 4 - Overload toan tu va ham.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwEEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T19:56:31.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
