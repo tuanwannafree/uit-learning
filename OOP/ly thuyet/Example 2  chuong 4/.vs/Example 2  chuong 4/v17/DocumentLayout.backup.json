@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Learning\\uit\\OOP\\ly thuyet\\Example 2  chuong 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A69EA6-BD13-4C89-B15C-8A10FE9BE01E}|Example 2  chuong 4.vcxproj|C:\\Learning\\uit\\OOP\\ly thuyet\\Example 2  chuong 4\\Example 2  chuong 4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4A69EA6-BD13-4C89-B15C-8A10FE9BE01E}|Example 2  chuong 4.vcxproj|solutionrelative:Example 2  chuong 4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A69EA6-BD13-4C89-B15C-8A10FE9BE01E}|Example 2  chuong 4.vcxproj|C:\\Learning\\uit\\OOP\\ly thuyet\\Example 2  chuong 4\\Fraction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4A69EA6-BD13-4C89-B15C-8A10FE9BE01E}|Example 2  chuong 4.vcxproj|solutionrelative:Fraction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fraction.h",
+              "DocumentMoniker": "C:\\Learning\\uit\\OOP\\ly thuyet\\Example 2  chuong 4\\Fraction.h",
+              "RelativeDocumentMoniker": "Fraction.h",
+              "ToolTip": "C:\\Learning\\uit\\OOP\\ly thuyet\\Example 2  chuong 4\\Fraction.h",
+              "RelativeToolTip": "Fraction.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-09T21:03:13.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "74506c1a-4d14-4892-a1f4-98520afa45d8",
+        "Display": 0,
+        "X": 725,
+        "Y": 197,
+        "Width": 901,
+        "Height": 809,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Example 2  chuong 4.cpp",
+              "DocumentMoniker": "C:\\Learning\\uit\\OOP\\ly thuyet\\Example 2  chuong 4\\Example 2  chuong 4.cpp",
+              "RelativeDocumentMoniker": "Example 2  chuong 4.cpp",
+              "ToolTip": "C:\\Learning\\uit\\OOP\\ly thuyet\\Example 2  chuong 4\\Example 2  chuong 4.cpp",
+              "RelativeToolTip": "Example 2  chuong 4.cpp",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T20:50:58.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
